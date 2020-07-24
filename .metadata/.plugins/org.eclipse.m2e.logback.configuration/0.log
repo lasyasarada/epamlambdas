@@ -1,0 +1,107 @@
+2020-07-24 15:37:23,492 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-24 15:41:49,512 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\pom.xml
+2020-07-24 15:42:10,100 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:lambdasandstreams:0.0.1-SNAPSHOT @ C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\pom.xml.
+2020-07-24 15:42:13,653 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdasandstreams/src/main/java
+2020-07-24 15:42:13,708 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lambdasandstreams/src/test/java
+2020-07-24 15:42:16,347 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 26 sec
+2020-07-24 15:42:22,543 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:42:22,543 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:42:22,550 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:42:22,550 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:45:06,001 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vikrantkumar158:LambdasAndStreams:1.0-SNAPSHOT @ C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\pom.xml.
+2020-07-24 15:45:12,564 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:45:12,564 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:45:12,590 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:45:12,590 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:45:18,502 [Worker-1: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_lambdasandstreams] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams
+2020-07-24 15:45:18,516 [Worker-1: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_lambdasandstreams] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-24 15:48:23,098 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:48:23,099 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:48:23,102 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:48:23,103 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:48:31,637 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:48:31,638 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:48:31,641 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:48:31,641 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:51:00,303 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:51:00,304 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:51:00,308 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:51:00,309 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:54:19,096 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vikrantkumar158:LambdasAndStreams:1.0-SNAPSHOT @ C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\pom.xml.
+2020-07-24 15:54:30,932 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:54:30,932 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:54:30,935 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:54:30,935 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 15:54:32,244 [Worker-6: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_lambdasandstreams] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams
+2020-07-24 15:54:32,245 [Worker-6: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_lambdasandstreams] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-24 15:56:32,847 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:56:32,848 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 15:56:32,853 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 15:56:32,854 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 16:21:25,117 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 16:21:25,295 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 16:21:25,375 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 16:21:25,375 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 16:21:59,464 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 16:21:59,466 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\main\resources
+2020-07-24 16:21:59,510 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 16:21:59,510 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\lambdasandstreams\src\test\resources
+2020-07-24 17:08:22,612 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\pom.xml
+2020-07-24 17:09:22,739 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:epamlambdasandstrings:0.0.1-SNAPSHOT @ C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\pom.xml.
+2020-07-24 17:09:59,349 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /epamlambdasandstrings/src/main/java
+2020-07-24 17:10:01,800 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /epamlambdasandstrings/src/test/java
+2020-07-24 17:10:09,025 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 105 sec
+2020-07-24 17:10:28,081 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:10:28,082 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:10:28,089 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:10:28,091 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:16:20,162 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:16:20,163 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:16:20,166 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:16:20,167 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:19:10,905 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:epamlambdasandstrings:0.0.1-SNAPSHOT @ C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\pom.xml.
+2020-07-24 17:19:18,901 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:19:18,902 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:19:18,904 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:19:18,904 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:19:20,483 [Worker-23: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_epamlambdasandstrings] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings
+2020-07-24 17:19:20,484 [Worker-23: Launching Executing install in C__Users_NEW_Desktop_lambdasandstreams_epamlambdasandstrings] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-24 17:19:42,133 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:19:42,142 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:19:42,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:19:42,525 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:20:55,750 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:20:55,750 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:20:55,780 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:20:55,780 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:22:02,140 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:22:02,142 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:22:02,144 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:22:02,145 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:22:45,662 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:22:45,663 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:22:45,699 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:22:45,699 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:23:16,828 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:23:16,829 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:23:16,833 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:23:16,833 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:24:29,157 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:24:29,157 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:24:29,162 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:24:29,162 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:25:25,794 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:25:25,794 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:25:25,796 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:25:25,796 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:26:17,903 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:26:17,904 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:26:17,907 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:26:17,907 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:26:48,866 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:26:48,868 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:26:48,876 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:26:48,876 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\test\resources
+2020-07-24 17:27:46,351 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 17:27:46,352 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\lambdasandstreams\epamlambdasandstrings\src\main\resources
+2020-07-24 17:27:46,355 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
